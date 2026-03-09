@@ -1,7 +1,7 @@
 # BREADTH-FIRST-SEARCH
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: BAVYA SRI B </h3>
-<h3>Register Number: 212224230034</h3>
+<h3>Name: RHUDHRA PHRIYAMVADHA K S </h3>
+<h3>Register Number: 212224040275</h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -137,7 +137,8 @@ G F <BR>
 <hr>
 <H3>Output</H3>
 <hr>
-<img width="517" height="356" alt="image" src="https://github.com/user-attachments/assets/71c8d1b0-f2f0-4022-854c-8f2695a9836c" />
+<img width="498" height="352" alt="image" src="https://github.com/user-attachments/assets/897fd58c-2593-4086-84bc-344d83004857" />
+
 
 
 <hr>
@@ -157,13 +158,14 @@ G F <BR>
 <hr>
 <H3>Output</H3>
 <hr>
-<img width="412" height="305" alt="image" src="https://github.com/user-attachments/assets/4797d304-f6cb-4340-91e1-2bf9e241a42d" />
+<img width="303" height="250" alt="image" src="https://github.com/user-attachments/assets/8994746b-3acc-4330-996a-a6b3fb130fb7" />
+
 
 
 
 <h3>RESULT:</h3>
 <hr>
-<p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
+<p>Thus, a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
 
 
 
